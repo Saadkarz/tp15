@@ -434,8 +434,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Saad Karzouz**
 
-- GitHub: [@saadkarzouz](https://github.com/saadkarzouz)
-- Email: saad.karzouz@example.com
+- GitHub: [@saadkarzouz](https://github.com/saadkarz)
+- Email: karzouz03@gmail.com
 
 ---
 
